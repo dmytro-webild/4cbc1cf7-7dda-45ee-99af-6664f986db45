@@ -110,7 +110,7 @@ export default function LandingPage() {
       useInvertedBackground={false}
       plans={[
         {
-          id: "p1",          badge: "Basis",          price: "25€",          subtitle: "Klassischer Herrenhaarschnitt",          buttons: [
+          id: "p1",          badge: "Basis",          price: "25€",          subtitle: "Der klassische Haarschnitt für den modernen Mann",          buttons: [
             {
               text: "Buchen",              href: "#booking"},
           ],
